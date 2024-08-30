@@ -1,4 +1,5 @@
 # dice_game
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+The dice game project displays two dices on the screen. They are rollable with the aid of textbutton (Role Dice). The flutter project uses a custom widget for the background. It is a good resource for beginners in cross-platform (dart, flutter) mobile app development. 
+>>>>>>> 2973962b4b6b6325b4c536b7843ecbd0b4c68f68
